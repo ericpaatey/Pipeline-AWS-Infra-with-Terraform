@@ -1,5 +1,5 @@
-# Pipeline-AWS-Infra-with-Terraform
-Tech stack: Terraform • AWS ECS/Fargate • Docker • GitHub Actions
+# Pipeline-AWS-Infra-with-Terraform <br>
+<p>Tech stack: Terraform • AWS ECS/Fargate • Docker • GitHub Actions
 Project Description:
 The project comprises:
 ● a python-based web app with a Dockerfile for deployment as a containerized application on
